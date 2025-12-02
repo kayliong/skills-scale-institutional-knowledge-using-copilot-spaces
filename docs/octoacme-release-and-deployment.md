@@ -22,6 +22,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Release Manager confirms go/no-go and coordinates deployment activities
+- [ ] Technical Writer finalizes release notes and user documentation
+- [ ] DevOps Engineer validates pipeline and infrastructure readiness
+- [ ] Support/Customer Success Lead prepared for user inquiries and feedback
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
