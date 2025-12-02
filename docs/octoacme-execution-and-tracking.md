@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Scrum Master assigned and sprint ceremonies scheduled
+- [ ] UX Designer validates user flows and provides design feedback
+- [ ] Technical Writer documents new features and APIs
+- [ ] DevOps Engineer monitors pipeline health and system metrics

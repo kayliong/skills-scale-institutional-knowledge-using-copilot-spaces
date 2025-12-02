@@ -19,6 +19,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Scrum Master: facilitates agile ceremonies, removes blockers, promotes continuous improvement.
+- UX Designer/Researcher: ensures user needs and usability are considered in product design.
+- Technical Writer: documents architectures, APIs, and user guides.
+- Release Manager: plans and coordinates releases, manages deployment readiness.
+- Support/Customer Success Lead: manages user feedback, support escalations, and post-release education.
+- DevOps Engineer: enables automated pipelines, manages infrastructure, monitors system health.
 
 ## Key Artifacts
 - Project Charter / One-pager
